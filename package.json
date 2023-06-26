@@ -1,0 +1,13 @@
+{
+  "name": "Alex",
+  "version": "1.0.0",
+  "description": "File-Manager",
+  "main": "index.js",
+  "repository": "git@github.com:Zhurkin-Alex/File-Manager.git",
+  "author": "Zhurkin-Alex <jura-leha-999@mail.ru>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  }
+}
